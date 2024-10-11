@@ -5,6 +5,7 @@ Con 1 año de experiencia como desarrollador web junior, he trabajado principalm
 Me emociona trabajar en proyectos innovadores y crecer continuamente como desarrollador, aprendiendo nuevas tecnologías y mejorando mis habilidades técnicas.
 
 🔭 Actualmente, estoy trabajando como FrontEnd con React y Typescript.
+<br>
 🌱 Estoy aprendiendo nuevas herramientas y frameworks como Python y Blueprints, además de profundizar en Clean Architecture.
 💬 Pregúntame sobre React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/[tu_usuario]" target="blank"><i align="center" class="devicon-twitter-original" alt="[tu_usuario]" height="40" width="60"></i></a> <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Cristian" height="40" width="60"></i></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="[tu_usuario]" /> </p>
