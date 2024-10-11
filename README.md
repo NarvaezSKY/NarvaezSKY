@@ -7,8 +7,22 @@ Me emociona trabajar en proyectos innovadores y crecer continuamente como desarr
 🔭 Actualmente, estoy trabajando como FrontEnd con React y Typescript.
 <br>
 🌱 Estoy aprendiendo nuevas herramientas y frameworks como Python y Blueprints, además de profundizar en Clean Architecture.
+<br>
 💬 Pregúntame sobre React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/[tu_usuario]" target="blank"><i align="center" class="devicon-twitter-original" alt="[tu_usuario]" height="40" width="60"></i></a> <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Cristian" height="40" width="60"></i></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="[tu_usuario]" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="blank">
+    <i align="center" class="devicon-linkedin-plain colored" alt="Cristian" height="40" width="60"></i>
+  </a>
+  <a href="https://www.instagram.com/narvaez_sky/" target="blank">
+    <i align="center" class="devicon-instagram-plain colored" alt="Cristian Instagram" height="40" width="60"></i>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
+</p>
+
 <h3 align="left">Activity:</h3>
 
 <div align="center"> <a href="https://github.com/[tu_usuario]"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NarvaezSKY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NarvaezSKY"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarvaezSKY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NarvaezSKY"/> </a> </div> <p align="center"> <a href="https://github.com/NarvaezSKY"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarvaezSKY&&theme=tokyonight" alt="NarvaezSKY" /> </a> </p>
