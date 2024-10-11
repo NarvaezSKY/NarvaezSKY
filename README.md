@@ -1,5 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-Hello 🌎, I'm Cristian
+<h3>Hello 🌎, I'm Cristian</h3>
+<br>
 Con 1 año de experiencia como desarrollador web junior, he trabajado principalmente con el stack MERN (MongoDB, Express, React, Node.js), tanto en JavaScript como TypeScript, aplicando principios de Clean Architecture como Screaming Architecture y Vertical Slicing. Mi enfoque es desarrollar aplicaciones web escalables y mantenibles, con un especial interés en la arquitectura de software limpia y organizada. Mi experiencia abarca tanto el frontend como el backend, lo que me permite crear soluciones completas y eficientes.
 
 Me emociona trabajar en proyectos innovadores y crecer continuamente como desarrollador, aprendiendo nuevas tecnologías y mejorando mis habilidades técnicas.
@@ -11,13 +12,18 @@ Me emociona trabajar en proyectos innovadores y crecer continuamente como desarr
 💬 Pregúntame sobre React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="blank">
-    <i align="center" class="devicon-linkedin-plain colored" alt="Cristian" height="40" width="60"></i>
+  <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://www.instagram.com/narvaez_sky/" target="blank">
-    <i align="center" class="devicon-instagram-plain colored" alt="Cristian Instagram" height="40" width="60"></i>
+  <a href="https://www.instagram.com/narvaez_sky/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
