@@ -20,11 +20,11 @@ Me emociona trabajar en proyectos innovadores y crecer continuamente como desarr
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
-</p>
-
 <h3 align="left">Activity:</h3>
 
 <div align="center"> <a href="https://github.com/[tu_usuario]"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NarvaezSKY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NarvaezSKY"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarvaezSKY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NarvaezSKY"/> </a> </div> <p align="center"> <a href="https://github.com/NarvaezSKY"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarvaezSKY&&theme=tokyonight" alt="NarvaezSKY" /> </a> </p>
 <h3 align="left">Languages and Tools:</h3> <table> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,express,nestjs"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,figma"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td> <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td> <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td> <td><img height="40" src="https://skillicons.dev/icons?i=firebase,vercel,netlify,render"/></td> </tr> </table>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
+</p>
