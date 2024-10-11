@@ -1,10 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<h3>Hello 🌎, I'm Cristian</h3>
+<h2>Hello 🌎, I'm Cristian</h2>
 With 1 year of experience as a junior web developer, I have primarily worked with the MERN stack (MongoDB, Express, React, Node.js) using JavaScript, and I have primarily used TypeScript for React. I apply Clean Architecture principles like Screaming Architecture and Vertical Slicing in my projects. My focus is on developing scalable and maintainable web applications, with a special interest in clean and organized software architecture. My experience spans both frontend and backend, allowing me to create comprehensive and efficient solutions.
 
 I'm excited to work on innovative projects and continuously grow as a developer, learning new technologies and improving my technical skills.
 
-🔭 Currently, I’m working as a Frontend Developer with React and TypeScript, using libraries such as NextUI, MaterialUI and React Bootstrap.
+🔭 Currently, I’m working as a Frontend Developer with React and TypeScript, using libraries such as NextUI, MUI and React Bootstrap.
 <br>
 🌱 I’m learning new tools and frameworks such as Python and Blueprints, while deepening my knowledge of Clean Architecture.
 <br>
