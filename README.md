@@ -1,15 +1,16 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h3>Hello 🌎, I'm Cristian</h3>
 <br>
-Con 1 año de experiencia como desarrollador web junior, he trabajado principalmente con el stack MERN (MongoDB, Express, React, Node.js), tanto en JavaScript como TypeScript, aplicando principios de Clean Architecture como Screaming Architecture y Vertical Slicing. Mi enfoque es desarrollar aplicaciones web escalables y mantenibles, con un especial interés en la arquitectura de software limpia y organizada. Mi experiencia abarca tanto el frontend como el backend, lo que me permite crear soluciones completas y eficientes.
+With 1 year of experience as a junior web developer, I have primarily worked with the MERN stack (MongoDB, Express, React, Node.js) using JavaScript, and I have primarily used TypeScript for React. I apply Clean Architecture principles like Screaming Architecture and Vertical Slicing in my projects. My focus is on developing scalable and maintainable web applications, with a special interest in clean and organized software architecture. My experience spans both frontend and backend, allowing me to create comprehensive and efficient solutions.
 
-Me emociona trabajar en proyectos innovadores y crecer continuamente como desarrollador, aprendiendo nuevas tecnologías y mejorando mis habilidades técnicas.
+I'm excited to work on innovative projects and continuously grow as a developer, learning new technologies and improving my technical skills.
 
-🔭 Actualmente, estoy trabajando como FrontEnd con React y Typescript.
+🔭 Currently, I’m working as a Frontend Developer with React and TypeScript.
 <br>
-🌱 Estoy aprendiendo nuevas herramientas y frameworks como Python y Blueprints, además de profundizar en Clean Architecture.
+🌱 I’m learning new tools and frameworks such as Python and Blueprints, while deepening my knowledge of Clean Architecture.
 <br>
-💬 Pregúntame sobre React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
+💬 Ask me about React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/cristian-samir-narvaez/" target="_blank">
